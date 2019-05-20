@@ -66,9 +66,9 @@
                     <template slot="right">
                       <span class="separator" />
                       <s-button
+                        :url="{ href: '//storyscript.io/blog/', target: '_blank' }"
                         link
                         arrow
-                        url="//storyscript.io/blog/"
                       >
                         Read on Medium
                       </s-button>

@@ -15,6 +15,7 @@
         size="full"
       >
         <s-button
+          :url="{ href:'https://github.com/storyscript/storyscript', target:'_blank' }"
           icon="github-circle"
           link
         >Fork us on GitHub</s-button>
