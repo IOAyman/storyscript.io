@@ -29,6 +29,7 @@
       <s-container centered-h>
         <s-div size="3">
           <s-button
+            url="//docs.storyscript.io"
             full
             size="large"
           >LEARN MORE</s-button>

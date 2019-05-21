@@ -23,6 +23,7 @@
         size="full"
       >
         <s-button
+          :url="{ href:'https://github.com/storyscript/storyscript', target:'_blank' }"
           icon="github-face"
           link
           size="small"
