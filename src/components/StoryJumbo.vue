@@ -78,7 +78,7 @@ export default {
         { name: 'Docs', link: '//docs.storyscript.io' },
         { name: 'About', route: { name: 'about' }, active: this.$route.name === 'about' },
         { name: 'Hub', link: '//hub.storyscript.io' },
-        { name: 'Github', link: '//github.com/storyscript', button: { state: 'secondary', size: 'small', borderless: true, iconRight: 'github-face' } }
+        { name: 'Github', button: { url: '//github.com/storyscript', state: 'secondary', size: 'small', borderless: true, iconRight: 'github-face' } }
       ]
     },
     current: function () {
