@@ -1,4 +1,4 @@
-# asyncy.com
+# storyscript.io
 
 ## Project setup
 ```
