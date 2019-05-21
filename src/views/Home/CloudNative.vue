@@ -21,9 +21,9 @@
           p="1"
         >Storyscript runs collection of many services working together in the cloud.</s-text>
         <s-button
+          :url="{ href:'//docs.storyscript.io', target:'_blank' }"
           link
           arrow
-          url="//docs.storyscript.io"
         >View Docs</s-button>
       </s-div>
     </s-container>

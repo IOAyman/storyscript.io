@@ -21,9 +21,9 @@
           p="1"
         >Transform your containerized software into highly-reusable, fully-documented pluggable software components.</s-text>
         <s-button
+          :url="{ href:'//microservice.guide', target:'_blank' }"
           link
           arrow
-          url="//microservice.guide"
         >The OMG Standard</s-button>
       </s-div>
     </s-container>
